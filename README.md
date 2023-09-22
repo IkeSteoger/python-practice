@@ -1,2 +1,3 @@
-# python-practice
-Learning Python via Automate the Boring Stuff with Python By Al Sweigart
+# My Python Practice Repo
+
+## Learning via [Automate The Boring Stuff With Python by Al Sweigart](https://automatetheboringstuff.com/)
